@@ -1,5 +1,5 @@
 # Main Files
-- Jupyter notebook: oil-palm.ipynb 
+- Jupyter notebook: [oil-palm.ipynb](https://github.com/engwbc/PalmOptimisation/blob/main/oil-palm.ipynb) 
 
 # Supporting Files
 - PDF of presentation (see below)
